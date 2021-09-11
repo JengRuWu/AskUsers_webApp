@@ -2,9 +2,9 @@
 
 A web app that helps sending surveys to customers and collecting their feedbacks.
 
- - Built the app with React, Redux, Node.JS, express, and MongoDB Atlas (cloud database).
+ - Built the app with React, Redux, Node.JS, express, MongoDB Atlas (cloud database) and Heroku.
  - Enabled sign-in services with Google OAuth API and Passport.JS, and payment services with Stripe API.
- -  Implemented email-sending and response-collecting processes with SendGrid API and Webhook.
+ - Implemented email-sending and response-collecting processes with SendGrid API and Webhook.
 
 Please visit https://aqueous-everglades-30500.herokuapp.com/ to access the app.
 
