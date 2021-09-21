@@ -6,7 +6,7 @@ A web app that helps sending surveys to customers and collecting their feedbacks
  - Enabled sign-in services with Google OAuth API and Passport.JS, and payment services with Stripe API.
  - Implemented email-sending and response-collecting processes with SendGrid API and Webhook.
 
-Please visit https://aqueous-everglades-30500.herokuapp.com/ to access the app.
+Please visit https://aqueous-everglades-30500.herokuapp.com/ to access the app!
 
 
 ## Demo
